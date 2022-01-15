@@ -17,7 +17,10 @@ main{
     height: 100%;
     justify-content: center;
     position: relative;
-    
+}
 
-
+main > section img {
+    height: 500px;
+    margin: 15px 0;
+    width: 400px;
 }
