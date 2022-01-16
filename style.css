@@ -23,4 +23,55 @@ main > section img {
     height: 500px;
     margin: 15px 0;
     width: 400px;
+    
+}
+
+main > section button {
+    background-color: #00FF00;
+    border: rgb(26, 26, 124);
+    border-radius: 50px;
+    color: black;
+    font-family: "Audiowide", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    letter-spacing: -0.6px;
+    line-height: 30px;
+    text-transform: uppercase;
+}
+
+#detalhes-container {
+    font-weight: bold;
+    list-style-type: none;
+    height: 200px;
+    margin: 15 5px;
+    width: 400px;
+    font-family: "Audiowide", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    letter-spacing: -0.6px;
+    line-height: 30px;
+    text-transform: uppercase;    
+}
+#detalhes-container2 {
+    height: 200px;
+    margin: 15px 5;
+    width: 400px;
+    font-family: "Audiowide", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    letter-spacing: -0.6px;
+    line-height: 30px;
+    text-transform: uppercase;
+}
+
+#detalhes-container3 {
+    height: 200px;
+    margin: 15px 5;
+    width: 400px;
+     font-family: "Audiowide", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    letter-spacing: -0.6px;
+    line-height: 30px;
+    text-transform: uppercase;
 }
