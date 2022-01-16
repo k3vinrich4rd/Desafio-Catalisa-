@@ -87,5 +87,22 @@ main > section button {
 
 #detalhes-container > li p {
     color: white;
+}
 
+#detalhes-container2 > li {
+    align-items: baseline;
+    display: flex;
+}
+
+#detalhes-container2 > li p {
+    color: white;
+}
+
+#detalhes-container3 > li {
+    align-items: baseline;
+    display: flex;
+}
+
+#detalhes-container3 > li p {
+    color: white;
 }
