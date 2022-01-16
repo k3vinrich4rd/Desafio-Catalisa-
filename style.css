@@ -72,4 +72,20 @@ main > section button {
     height: 200px;
     margin: 15px 5;
     width: 400px;
+    font-family: "Audiowide", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    letter-spacing: -0.6px;
+    line-height: 30px;
+    text-transform: uppercase;
+}
+
+#detalhes-container > li {
+    align-items: baseline;
+    display: flex;
+}
+
+#detalhes-container > li p {
+    color: white;
+
 }
