@@ -1,2 +1,2 @@
 # Desafio-Catalisa-
-MiniCurso do Catalisa 2022 - Como consumir a API do Rick And Morty
+Desafio do MiniCurso do Catalisa 2022 - Como consumir a API do Rick And Morty
